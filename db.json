@@ -6,6 +6,7 @@
       {
         "id": 2,
         "local_id": 3,
+        "attendance":"Yes",
         "student_username": "ag1student1",
         "name": {
           "first_name": "Brandon",
@@ -38,6 +39,7 @@
       {
         "id": 3,
         "local_id": 4,
+        "attendance":"Yes",
         "student_username": "ag1student2",
         "name": {
           "first_name": "Corby",
@@ -62,6 +64,7 @@
       {
         "id": 8,
         "local_id": 9,
+        "attendance":"Yes",
         "student_username": "ag1student8",
         "name": {
           "first_name": "Alfred",
@@ -103,6 +106,7 @@
       {
         "id": 9,
         "local_id": 10,
+        "attendance":"No",
         "student_username": "ag1student9",
         "name": {
           "first_name": "Christopher",
@@ -152,6 +156,7 @@
       {
         "id": 10,
         "local_id": 11,
+        "attendance":"No",
         "student_username": "ag1student10",
         "name": {
           "first_name": "Jacee",
@@ -206,6 +211,7 @@
       {
         "id": 11,
         "local_id": 12,
+        "attendance":"Yes",
         "student_username": "ag1student11",
         "name": {
           "first_name": "Harold",
